@@ -1,0 +1,6 @@
+--2022-12-14 22:13:17--  https://www.youtube.com/redirect?event=video_description
+Resolvendo www.youtube.com (www.youtube.com)... 2800:3f0:4001:81d::200e, 2800:3f0:4001:81e::200e, 2800:3f0:4001:825::200e, ...
+Conectando-se a www.youtube.com (www.youtube.com)|2800:3f0:4001:81d::200e|:443... conectado.
+A requisição HTTP foi enviada, aguardando resposta... 404 Not Found
+2022-12-14 22:13:18 ERRO 404: Not Found.
+
